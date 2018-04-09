@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# exclude data from source control by default
+/data/
+
 # C extensions
 *.so
 
